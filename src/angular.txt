@@ -1,0 +1,15 @@
+Angular CLI commands
+---------------------
+    -> ng version
+    -> ng new [project name]
+    -> ng generate
+            component ---> ng generate component [component name] -- will create new folder
+                        -> ng generate component [component name] --flat
+            module
+            service
+            pipe
+            directive
+            routing
+            interface
+            model
+            class
